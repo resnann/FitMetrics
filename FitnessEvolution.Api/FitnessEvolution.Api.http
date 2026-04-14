@@ -1,0 +1,6 @@
+@FitnessEvolution.Api_HostAddress = http://localhost:5229
+
+GET {{FitnessEvolution.Api_HostAddress}}/api/usuarios
+Accept: application/json
+
+###
